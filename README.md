@@ -1,4 +1,4 @@
 # score.js
 Experimental code for scoring
 
-https://phq9scoring.github.io/score.js/
+https://phq9admin.github.io/score.js/
